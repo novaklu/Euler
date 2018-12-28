@@ -12,9 +12,10 @@
             iNext = iNext + iLast
             iLast = Temp
 
-            'If Temp Mod 2 Then
-            Result = Result + Temp
-            'End If
+            ' Sum of the even-valued terms.
+            If Temp Mod 2 Then
+                Result = Result + Temp
+            End If
 
             ' Display the index.
             Debug.Write(Temp.ToString & " ")
