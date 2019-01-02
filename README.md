@@ -6,12 +6,12 @@ This is my training repository with Visual Basic codes from project Euler.
 
 
 ## Clone this repozitory:
-1 From VisualStudio.com
+1 From [VisualStudio](https://novak-ludek.visualstudio.com/Euler)
 
     git remote add visualstudio https://novak-ludek.visualstudio.com/Euler/_git/Euler
     git push -u visualstudio --all
 
-2 From [GitHub](http://github.com)
+2 From [GitHub](https://github.com/novaklu)
 
     git remote add github https://github.com/novaklu/Euler.git
     git push -u github master
