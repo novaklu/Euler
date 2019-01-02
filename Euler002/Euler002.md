@@ -13,5 +13,26 @@ terms. By starting with 1 and 2, the first 10 terms will be:
 By considering the terms in the Fibonacci sequence whose values do not exceed 
 four million, find the sum of the even-valued terms.
 
+Result: 
+--------------------------------------------------------------------------------
+9227463
 
-Result: 9227463
+Sudá Fibonacciho čísla
+================================================================================
+Problém 2
+--------------------------------------------------------------------------------
+
+URL: https://projecteuler.net/problem=2
+
+Každé nové číslo Fibonacciho posloupnosti je součtem dvou předchozích. Začínající
+s 1 a 2, prvních 10 čísel tedy je:
+
+1, 2, 3, 5, 8, 13, 21, 34, 55, 89, ...
+
+Najděte součet všech sudých členů Fibonacciho posloupnosti menších nebo rovných 
+čtyřem milionům.
+
+Výsledek:
+--------------------------------------------------------------------------------
+
+

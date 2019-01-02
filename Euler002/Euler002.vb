@@ -13,12 +13,11 @@
             iLast = Temp
 
             ' Sum of the even-valued terms.
-            If Temp Mod 2 Then
+            If (index Mod 2) = False Then
                 Result = Result + Temp
+                ' Display the index.
+                Debug.Write(index.ToString & ":" & Temp.ToString & " ")
             End If
-
-            ' Display the index.
-            Debug.Write(Temp.ToString & " ")
 
             ' If iNext bigger than 4000000, exit the loop.
             If iNext > 4000000 Then
