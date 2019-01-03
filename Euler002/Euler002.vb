@@ -11,13 +11,13 @@
             Temp = iNext
             iNext = iNext + iLast
             iLast = Temp
-            Debug.Write(index.ToString & ":" & Temp.ToString & " ")
-            ' Sum of the even-valued terms.
-            'If (index Mod 2) = False Then
-            '    Result = Result + Temp
-            '    ' Display the index.
-            '    Debug.Write(index.ToString & ":" & Temp.ToString & " ")
-            'End If
+
+            'Sum of the even-valued terms.
+            If (Temp Mod 2) = False Then
+                Result = Result + Temp
+                ' Display the index.
+                Debug.Write(index.ToString & ":" & Temp.ToString & " ")
+            End If
 
             ' If iNext bigger than 4000000, exit the loop.
             If iNext > 4000000 Then
@@ -25,10 +25,10 @@
             End If
         Next
         Debug.WriteLine("")
-        ' Output: 1 2 3 5 8 13 21 34 55 89 
+        ' Output: 2:2 5:8 8:34 11:144 14:610 17:2584 20:10946 23:46368 26:196418 29:832040 32:3524578 
 
         Debug.WriteLine("Result: " & Result.ToString)
-        ' Output 231
+        ' Output 4613732
 
         Console.ReadLine()
         ' Only for console view.
