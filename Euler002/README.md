@@ -33,7 +33,6 @@ Najděte součet všech sudých členů Fibonacciho posloupnosti menších nebo 
 ## Slovníček pojmů:
 Termíny související s daným problémem a použitelné pro řešení.
 
-
  Id | OEIS | N | Český název | Anglický název | Ruský název | Německý název 
 ----|------|---|-------------|----------------|-------------|-------------------
  1) | A000045 | 6 | Fibonacciho posloupnost | Fibonacci Sequence | Последовательность Фибоначчи | Fibonacci-Folge 
@@ -48,7 +47,6 @@ Termíny související s daným problémem a použitelné pro řešení.
  10) |  |  | Celočíselné posloupnosti | Integer sequence | Целочисленные последовательности | Folge ganzer Zahlen 
 
 
-Zdroje:
---------------------------------------------------------------------------------
+## Zdroje:
 
 * [The On-Line Encyclopedia of Integer Sequences](https://oeis.org)
