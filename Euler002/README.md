@@ -1,7 +1,5 @@
-Even Fibonacci numbers
-================================================================================
-Problem 2
---------------------------------------------------------------------------------
+# Even Fibonacci numbers
+## Problem 2
 
 URL: https://projecteuler.net/problem=2
 
@@ -13,14 +11,11 @@ terms. By starting with 1 and 2, the first 10 terms will be:
 By considering the terms in the Fibonacci sequence whose values do not exceed 
 four million, find the sum of the even-valued terms.
 
-Result: 
---------------------------------------------------------------------------------
+### Result: 
 4613732
 
-Sudá Fibonacciho čísla
-================================================================================
-Problém 2
---------------------------------------------------------------------------------
+# Sudá Fibonacciho čísla
+## Problém 2
 
 URL: https://projecteuler.net/problem=2
 
@@ -32,12 +27,10 @@ od 1 a 2, prvních 10 čísel tedy je:
 Najděte součet všech sudých členů Fibonacciho posloupnosti menších nebo rovných 
 čtyřem milionům.
 
-Výsledek:
---------------------------------------------------------------------------------
+### Výsledek:
 4613732
 
-Slovníček pojmů:
---------------------------------------------------------------------------------
+## Slovníček pojmů:
 Termíny související s daným problémem a použitelné pro řešení.
 
 
