@@ -41,18 +41,18 @@ Slovníček pojmů:
 Termíny související s daným problémem a použitelné pro řešení.
 
 
-| Id | OEIS | N | Český název | Anglický název | Ruský název | Německý název |
+ Id | OEIS | N | Český název | Anglický název | Ruský název | Německý název 
 -------------------------------------------------------------------
-| 1) | A000045 | 6 | Fibonacciho posloupnost | Fibonacci Sequence | Последовательность Фибоначчи | Fibonacci-Folge |
-| 2) | A000129 | 12 | Pellova čísla | Pell numbers | Последовательность Пелля | Pell-Folge |
-| 3) | A000931 | 15 | Padovanova posloupnost | Padovan sequence | Последовательность Падована | Padovan-Folge |
-| 4) | A001045 | 18 | Jacobsthalova posloupnost | Jacobsthal sequence or Jacobsthal numbers | Последовательность Якобсталя | Jacobsthal-Folge |
-| 5) | A000073 | 30 | Tribonacciho čísla | Tribonacci numbers | Последовательность трибоначчи | Tribonacci-Folge |
-| 6) | A000288 | 210 | Tetranacciho čísla | Tetranacci numbers | Последовательность тетраначчи | Tetranacci-Folge |
-| 7) | A002878 |  | Lucasova posloupnost | Lucas Sequence | Последовательность Люка | Lucas-Folge |
-| 8) |  |  | Repfigity - Keithovo číslo | Repfigit numbers or Keith numbers | Репфигит, или число Кита | Keith-Zahl |
-| 9) |  |  | Zlatý řez | Golden Ratio | Золотое сечение | Goldenen Schnitt |
-| 10) |  |  | Celočíselné posloupnosti | Integer sequence | Целочисленные последовательности | Folge ganzer Zahlen |
+ 1) | A000045 | 6 | Fibonacciho posloupnost | Fibonacci Sequence | Последовательность Фибоначчи | Fibonacci-Folge 
+ 2) | A000129 | 12 | Pellova čísla | Pell numbers | Последовательность Пелля | Pell-Folge 
+ 3) | A000931 | 15 | Padovanova posloupnost | Padovan sequence | Последовательность Падована | Padovan-Folge 
+ 4) | A001045 | 18 | Jacobsthalova posloupnost | Jacobsthal sequence or Jacobsthal numbers | Последовательность Якобсталя | Jacobsthal-Folge 
+ 5) | A000073 | 30 | Tribonacciho čísla | Tribonacci numbers | Последовательность трибоначчи | Tribonacci-Folge 
+ 6) | A000288 | 210 | Tetranacciho čísla | Tetranacci numbers | Последовательность тетраначчи | Tetranacci-Folge 
+ 7) | A002878 |  | Lucasova posloupnost | Lucas Sequence | Последовательность Люка | Lucas-Folge 
+ 8) |  |  | Repfigity - Keithovo číslo | Repfigit numbers or Keith numbers | Репфигит, или число Кита | Keith-Zahl 
+ 9) |  |  | Zlatý řez | Golden Ratio | Золотое сечение | Goldenen Schnitt 
+ 10) |  |  | Celočíselné posloupnosti | Integer sequence | Целочисленные последовательности | Folge ganzer Zahlen 
 
 
 Zdroje:
