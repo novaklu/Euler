@@ -42,7 +42,7 @@ Termíny související s daným problémem a použitelné pro řešení.
 
 
  Id | OEIS | N | Český název | Anglický název | Ruský název | Německý název 
--------------------------------------------------------------------
+----|------|---|-------------|----------------|-------------|-------------------
  1) | A000045 | 6 | Fibonacciho posloupnost | Fibonacci Sequence | Последовательность Фибоначчи | Fibonacci-Folge 
  2) | A000129 | 12 | Pellova čísla | Pell numbers | Последовательность Пелля | Pell-Folge 
  3) | A000931 | 15 | Padovanova posloupnost | Padovan sequence | Последовательность Падована | Padovan-Folge 
