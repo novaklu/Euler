@@ -7,6 +7,7 @@ This is my training repository with Visual Basic codes from project Euler.
 
 ## Clone this repozitory:
 * From [VisualStudio](https://novak-ludek.visualstudio.com/Euler)
+    
     git clone https://novak-ludek.visualstudio.com/Euler/_git/Eule 
     
 or
