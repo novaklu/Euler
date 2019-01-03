@@ -25,7 +25,7 @@ Problém 2
 URL: https://projecteuler.net/problem=2
 
 Každé nové číslo Fibonacciho posloupnosti je součtem dvou předchozích. Začínající
-s 1 a 2, prvních 10 čísel tedy je:
+od 1 a 2, prvních 10 čísel tedy je:
 
 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, ...
 
@@ -34,5 +34,3 @@ Najděte součet všech sudých členů Fibonacciho posloupnosti menších nebo 
 
 Výsledek:
 --------------------------------------------------------------------------------
-
-
