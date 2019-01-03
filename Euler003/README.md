@@ -27,6 +27,6 @@ Termíny související s daným problémem a použitelné pro řešení.
 
 Id | Český název | Anglický název | Ruský název | Německý název 
 ---|-------------|----------------|-------------|--------------
-1) | 
+1) |  |  |  |
 
 ## Zdroje:
