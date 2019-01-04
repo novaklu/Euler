@@ -49,3 +49,4 @@ Termíny související s daným problémem a použitelné pro řešení.
 ## Zdroje:
 
 * [The On-Line Encyclopedia of Integer Sequences](https://oeis.org)
+* [Wikipedia](https://wikipedia.org)
