@@ -25,9 +25,25 @@ Jaký je největší nerozložitelný činitel čísla 600851475143?
 ## Slovníček pojmů:
 Termíny související s daným problémem a použitelné pro řešení.
 
-Id | Český název | Anglický název | Ruský název | Německý název 
----|-------------|----------------|-------------|--------------
-1) |  |  |  |
+ Id | Český název | Anglický název | Ruský název | Německý název 
+----|-------------|----------------|-------------|--------------
+1)  | Základní věta aritmetiky | Fundamental theorem of arithmetic |  |
+2)  | Prvočíselný rozklad - faktorizace | Prime factorization  |  |
+3)  | Dělitelnost| |  |
+4)  | Prvočinitel |  |  |
+5)  | Test prvočíselnosti | Primality test  |  |
+6)  | Eratosthenovo síto | Sieve of Eratosthenes |  | 
+7)  | Atkinovo síto | Sieve of Atkin |  |
+8)  | Sundaramovo síto | Sieve of Sundaram |  |
+8)  | Fermatův test | Fermat primality test |  |
+10) | Millerův-Rabinův test | Miller–Rabin primality test |  |
+11) | Pépinův test | Proth's test |  |
+12) | Lucasův-Lehmerův test | Lucas primality test |  |
+13) | Solovayův-Strassenův test | Solovay–Strassen primality test |  |
+14) | Frobeniusův test prvočíselnosti | Frobenius primality test | |
+15) | AKS test prvočíselnosti | AKS primality test |  |
+16) | Zkusmé dělení | Heuristic tests |  |
+17) | Pravděpodobnostní algoritmy | Probabilistic tests |  |
 
 ## Zdroje:
 
