@@ -4,14 +4,14 @@
         ' Creating collection
         Dim arrayPrimes As New List(Of Integer)
         ' Test imput is 13195
-        Dim inputMax As Integer = 13195
-        Dim Result As Integer = 0
+        Dim nInput As Integer = 13195
+        Dim nResult As Integer = 0
         Dim iMax As Integer
-
+        ' Add first prime number
         arrayPrimes.Add(2)
-        iMax = Math.Round(Math.Sqrt(inputMax))
+        iMax = Math.Round(Math.Sqrt(nInput))
 
-        ' Display the index (test numbers is 5, 7, 13 and 29).
+        ' Prime factorization
         For j As Integer = 1 To iMax Step 1
             If sieveOfEratosthenes(j) Then
                 arrayPrimes.Add(j)
@@ -21,9 +21,13 @@
 
         arrayPrimes.ForEach(
             Sub(arrayPrime) Debug.WriteLine(arrayPrime & ", "))
-        ' Output: 0 2 4 6 8
+        ' Output: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97, 101, 103, 107, 109, 113
 
-        Debug.WriteLine("Result: " & Result.ToString)
+        ' Display the index (test numbers is 5, 7, 13 and 29).
+        
+
+
+        Debug.WriteLine("Result: " & nResult.ToString)
         ' Output 29
 
     End Sub
