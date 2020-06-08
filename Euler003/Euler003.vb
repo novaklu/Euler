@@ -7,15 +7,14 @@
         Dim nInput As Integer = 13195
         Dim nResult As Integer = 0
         Dim iMax As Integer
-        ' Add first prime number
-        arrayPrimes.Add(2)
+
         iMax = Math.Round(Math.Sqrt(nInput))
 
         ' Prime factorization
         For j As Integer = 1 To iMax Step 1
             If sieveOfEratosthenes(j) Then
                 arrayPrimes.Add(j)
-                Debug.WriteLine(j.ToString & ", ")
+                'Debug.WriteLine(j.ToString & ", ")
             End If
         Next
 
@@ -24,8 +23,10 @@
         ' Output: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97, 101, 103, 107, 109, 113
 
         ' Display the index (test numbers is 5, 7, 13 and 29).
-        
-
+        For index As Integer = arrayPrimes.Count - 1 To 0 Step -1
+            nResult = arrayPrimes(index)
+            Debug.WriteLine("Result: " & nResult)
+        Next
 
         Debug.WriteLine("Result: " & nResult.ToString)
         ' Output 29
